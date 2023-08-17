@@ -2,7 +2,13 @@
 
 Sobre mim:
 
-👨‍💻 Atualmente estou me aprofundando em HTML, CSS
-📚 Cursando Técnico em Desenvolvimento de Sistemas
+- 👨‍💻 Atualmente estou me aprofundando em HTML e CSS
+- 📚 Cursando Técnico em Desenvolvimento de Sistemas
 
-[![Murilo Consul's GitHub stats](https://github-readme-stats.vercel.app/api?username=muriloconsul&show_icons=true&theme=graywhite)](https://github.com/muriloconsul)
+<a href="https://github.com/muriloconsul">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muriloconsul&show_icons=true&theme=graywhite" />
+</a>
+
+<a href="https://github.com/muriloconsul">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloconsul&layout=donut&theme=graywhite" />
+</a>
