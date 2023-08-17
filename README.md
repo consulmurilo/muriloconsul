@@ -1,6 +1,6 @@
 ### Olá! 👋 🇧🇷
 
-Sobre mim:
+#### Sobre mim:
 
 - 👨‍💻 Atualmente estou me aprofundando em HTML e CSS
 - 📚 Cursando Técnico em Desenvolvimento de Sistemas
