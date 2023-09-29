@@ -2,7 +2,7 @@
 
 #### Sobre mim:
 
-- 👨‍💻 Iniciando estudos em **JavaScript**
+- 👨‍💻 Estudando **JavaScript**
 - 📚 Cursando Técnico em Desenvolvimento de Sistemas no Senac RS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloconsul/)
